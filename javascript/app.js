@@ -24,4 +24,13 @@ else{
     alert("Not Prime");
 }
 
+// Question 03
+
+var x = prompt("enter your number:" )
+if ( x%2==0  ){
+    alert("Even Number")
+}
+else{
+    alert("Odd Number")
+}
 // end
