@@ -24,7 +24,7 @@ else{
     alert("Not Prime");
 }
 
-// Question 03
+// Question 04
 
 var x = prompt("enter your number:" )
 if ( x%2==0  ){
@@ -33,4 +33,11 @@ if ( x%2==0  ){
 else{
     alert("Odd Number")
 }
+
+// Question 05
+
+var width = prompt("enter the width");
+var height = prompt("enter the height");
+alert("area of rectangle = " + width*height );
+
 // end
